@@ -116,3 +116,11 @@ Deep Learning
 Model Deployment
       ↓
 MLOps
+```
+---
+## 📬 Connect with Me
+
+- ✉️ `engkhairymo@gmail.com`
+- 💼 [linkedin.com/in/khairy-mohamed/](https://linkedin.com/in/khairy-mohamed/)
+- 🌐 [https://eng-khairy-m.getportify.com](https://eng-khairy-m.getportify.com))
+---
