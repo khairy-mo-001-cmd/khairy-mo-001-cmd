@@ -83,13 +83,13 @@
 
 ## 🚀 Featured Projects
 
-### 🚗 House Price Prediction
+### 🏠 House Price Prediction
 
-Machine Learning project focused on predicting house prices using historical data.
+Machine Learning project focused on predicting **house prices** using historical housing data.
 
 **Skills & Technologies:**
 
-`Python` `Pandas` `NumPy` `Scikit-learn` `Machine Learning`
+`Python` `Pandas` `NumPy` `Scikit-learn` `Machine Learning` `Data Analysis`
 
 ---
 
@@ -117,3 +117,22 @@ Deep Learning
 Model Deployment
       ↓
 MLOps
+
+---
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="mailto:engkhairymo@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="www.linkedin.com/in/khairy-mohamed">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="[YOUR_PROFILE_URL](https://eng-khairy-m.getportify.com)">
+  <img src="https://img.shields.io/badge/My%20Profile-000000?style=for-the-badge&logo=about.me&logoColor=white"/>
+</a>
+
+</p>
